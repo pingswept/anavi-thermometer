@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name anavi-thermometer-rescue)(type Legacy)(uri ${KIPRJMOD}/anavi-thermometer-rescue.lib)(options "")(descr ""))
+  (lib (name "anavi-thermometer-rescue")(type "Legacy")(uri "${KIPRJMOD}/anavi-thermometer-rescue.lib")(options "")(descr ""))
+  (lib (name "OLED display")(type "Legacy")(uri "${KIPRJMOD}/components/SSD1306-128x64_OLED.lib")(options "")(descr ""))
 )
